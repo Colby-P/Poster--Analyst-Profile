@@ -1,1 +1,3 @@
 # Poster--Analyst-Profile
+
+This repository contains a posterdown acedemic poster I created on Demographic Health Survey (DHS) data. The poster was created for an assignment in SIS-750: Data Analysis, a course at the School of International Service, American University. My poster seeked to explore the effect drinking water access and other factors had on child mortality for all years of available survey data. Data used in the analysis were downloaded from the United States Agency for International Development's (USAID) StatCompiler data portal. Data were available for 87 low and middle-income countries. There are 385 observations in the dataset.
